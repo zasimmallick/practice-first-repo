@@ -4,3 +4,7 @@ p{
 h1{
     font-size: 300;
 }
+div{
+    color: blue;
+    background-color: aqua;
+}
